@@ -5,4 +5,6 @@ package com.spring.test.aop.aspect;
  * @since: 2024-09-14 18:54
  */
 public class LogArgsAdvice {
+
+    private static final String TAG = "LogArgsAdvice";
 }
