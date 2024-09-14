@@ -1,0 +1,6 @@
+//一个简单groovy 项目 测试一些groovy东西
+apply plugin: 'groovy'
+
+dependencies {
+    implementation 'org.codehaus.groovy:groovy-all:3.0.7'
+}

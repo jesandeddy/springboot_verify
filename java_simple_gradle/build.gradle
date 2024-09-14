@@ -1,0 +1,14 @@
+
+group 'com.springboot'
+version '1.0.0.SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+dependencies {
+    compile 'org.springframework.boot:spring-boot-starter-parent:2.2.2.RELEASE'
+    compile 'org.springframework.boot:spring-boot-starter-web:2.2.2.RELEASE'
+    compile 'org.apache.zookeeper:zookeeper:3.4.10'
+    compile 'org.projectlombok:lombok:1.18.24'
+    compile 'commons-codec:commons-codec:1.11'
+}
+
