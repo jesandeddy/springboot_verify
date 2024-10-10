@@ -1,3 +1,5 @@
 rootProject.name = 'springboot_verify'
 
 include 'java_simple_gradle', 'groovy_simple_project', 'spring_aop_study'
+include 'spring_app_test'
+

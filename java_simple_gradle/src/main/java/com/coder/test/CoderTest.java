@@ -8,7 +8,7 @@ import org.apache.commons.codec.digest.DigestUtils;
  */
 public class CoderTest {
 
-    public static void main(String[] args) {
+    public static void test(String[] args) {
         String newUserCode = "CampusAppHomePopupNewUser";
         String normalUserCode = "CampusAppHomePopupNormalUser";
         String newUserCodeDigest = DigestUtils.md5Hex(newUserCode);
