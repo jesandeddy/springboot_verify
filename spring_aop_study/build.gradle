@@ -1,0 +1,7 @@
+//一个简单groovy 项目 测试一些groovy东西
+
+dependencies {
+    implementation 'org.aspectj:aspectjrt:1.9.7'
+    implementation 'com.google.guava:guava:30.1.1-jre'
+    compile 'org.springframework.boot:spring-boot-starter-web'
+}
